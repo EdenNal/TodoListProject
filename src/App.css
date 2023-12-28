@@ -53,15 +53,16 @@ h1 {
   background: #5871ff;
   color: #fff;
   border: none;
-  padding: 0.65rem;
+  padding: 0.59rem;
   cursor: pointer;
+  border-radius: 3px;
 }
 
 .Todo {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #0545ad;
+  background: hsl(261, 83%, 50%);
   color: #fff;
   padding: 0.75rem 1rem;
   border-radius: 5px;
